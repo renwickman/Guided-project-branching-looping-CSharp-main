@@ -12,3 +12,4 @@ C:\Users\renwi\Desktop\CsharpProjects\Guided-project-branching-looping-CSharp-ma
 C:\Users\renwi\Desktop\CsharpProjects\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.pdb
 C:\Users\renwi\Desktop\CsharpProjects\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
 C:\Users\renwi\Desktop\CsharpProjects\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\ref\Final.dll
+C:\Users\renwi\Desktop\CsharpProjects\Guided-project-branching-looping-CSharp-main\GuidedProject\Final\obj\Debug\net8.0\Final.sourcelink.json

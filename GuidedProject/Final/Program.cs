@@ -144,7 +144,7 @@ do
             while (anotherPet == "y" && petCount < maxPets)
             {
                 bool validEntry = false;
-                
+
                 // get species (cat or dog) - string animalSpecies is a required field 
                 do
                 {
